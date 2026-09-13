@@ -1,0 +1,6 @@
+{
+  "name": "Guru AI Indonesia",
+  "description": "Asisten Digital Guru SD Kurikulum Merdeka & Pembelajaran Mendalam dengan AI Terintegrasi, Absensi Digital, Penilaian, dan Administrasi Sekolah Lengkap.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
